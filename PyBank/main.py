@@ -66,7 +66,7 @@ print(f'Greatest Decrease : ${greatestDecrease}')
 print(f'Greatest Decares Month{MonthofGretestDecrease}')
 print("######################")
 
-file_to_output = "analysis/budget_analysis_1.txt"
+file_to_output = "/budget_data.txt"
 # Generate Output Summary
 output = (
 
